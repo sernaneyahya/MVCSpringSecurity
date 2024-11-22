@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/MVC_Spring_Thymeleaf-main/pom.xml" />
+        <option value="$PROJECT_DIR$/MVC_Spring/pom.xml" />
       </list>
     </option>
   </component>
